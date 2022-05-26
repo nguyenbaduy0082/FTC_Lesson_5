@@ -268,12 +268,12 @@
   margin-left: 20px;
 }
 
-.section5_small_header ul {
+.section5_small_1 ul {
   display: flex;
   justify-content: space-between;
 }
 
-.section5_small_header ul li {
+.section5_small_1 ul li {
   list-style-type: none;
 }
 
